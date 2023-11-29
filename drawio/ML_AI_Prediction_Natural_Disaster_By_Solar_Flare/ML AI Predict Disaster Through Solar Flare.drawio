@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-29T12:28:48.051Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="FAAqagnCXiqnAK6h9kvM" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-29T15:42:36.671Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="LsPXAGnNodWGqc-fNWud" version="22.1.4" type="github">
   <diagram name="Page-1" id="B5yTWrJ47T2mOAO-xigN">
-    <mxGraphModel dx="3287" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="3034" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,7 +20,7 @@
           <mxGeometry x="-890.89" y="750" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="LyeWaFvupgN1CY5PztgA-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/whcompare-isometric-web-hosting-servers/50/cloud-server-128.png" parent="1" vertex="1">
-          <mxGeometry x="-880" y="386" width="128" height="128" as="geometry" />
+          <mxGeometry x="-700" y="540" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="LyeWaFvupgN1CY5PztgA-8" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Smartphone.svg;" parent="1" vertex="1">
           <mxGeometry x="-862" y="570" width="70.22" height="153.2" as="geometry" />
@@ -36,6 +36,9 @@
         </mxCell>
         <mxCell id="yxanTwf1TaR45OSPYr_J-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/esW0HyD.png;" vertex="1" parent="1">
           <mxGeometry x="-1050" y="239.07999999999998" width="526.63" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="yxanTwf1TaR45OSPYr_J-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/75mLvag.png;" vertex="1" parent="1">
+          <mxGeometry x="-1500" y="450" width="277" height="237.99" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
