@@ -1,56 +1,56 @@
-<mxfile host="app.diagrams.net" modified="2023-11-29T18:24:33.742Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="TN5TMSNTu2G-GWZo5hvn" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-29T18:35:35.635Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="YZCwpGGGQWGWVOlNwjSU" version="22.1.4" type="github">
   <diagram name="Page-1" id="B5yTWrJ47T2mOAO-xigN">
     <mxGraphModel dx="3486" dy="816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="LFtlr_HMFEoI2J_1FoKJ-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/YR6IKgm.png;" parent="1" vertex="1">
-          <mxGeometry x="-1470" y="48.51" width="157" height="137" as="geometry" />
+        <mxCell id="LFtlr_HMFEoI2J_1FoKJ-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/YR6IKgm.png;clipPath=inset(0% 0% 0% 0% round 28%);" parent="1" vertex="1">
+          <mxGeometry x="-1570" y="22.5" width="157" height="136.59" as="geometry" />
         </mxCell>
-        <mxCell id="LFtlr_HMFEoI2J_1FoKJ-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/BSGpTbH.png;" parent="1" vertex="1">
-          <mxGeometry x="-1080" y="45.62" width="157" height="157" as="geometry" />
+        <mxCell id="LFtlr_HMFEoI2J_1FoKJ-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/BSGpTbH.png;clipPath=inset(0% 0% 0% 0% round 14%);" parent="1" vertex="1">
+          <mxGeometry x="-1387" y="12.29" width="157" height="157" as="geometry" />
         </mxCell>
-        <mxCell id="LFtlr_HMFEoI2J_1FoKJ-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/IrE202X.jpg;" parent="1" vertex="1">
-          <mxGeometry x="-660" y="60.78000000000001" width="172" height="112" as="geometry" />
+        <mxCell id="LFtlr_HMFEoI2J_1FoKJ-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/IrE202X.jpg;clipPath=inset(0% 0% 0% 0% round 25%);" parent="1" vertex="1">
+          <mxGeometry x="-1200" y="22.5" width="222" height="145.04000000000002" as="geometry" />
         </mxCell>
-        <mxCell id="LFtlr_HMFEoI2J_1FoKJ-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/bPgNFiQ.jpg;" parent="1" vertex="1">
-          <mxGeometry x="-290" y="51.18000000000002" width="157" height="157" as="geometry" />
+        <mxCell id="LFtlr_HMFEoI2J_1FoKJ-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/bPgNFiQ.jpg;clipPath=inset(0% 0% 0% 0% round 22%);" parent="1" vertex="1">
+          <mxGeometry x="-920" width="171.61" height="171.61" as="geometry" />
         </mxCell>
         <mxCell id="LyeWaFvupgN1CY5PztgA-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/evericons-24px-vol-2/24/bell-alert-128.png;imageBackground=none;" parent="1" vertex="1">
-          <mxGeometry x="-890.89" y="750" width="128" height="128" as="geometry" />
+          <mxGeometry x="-420" y="740" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="LyeWaFvupgN1CY5PztgA-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/whcompare-isometric-web-hosting-servers/50/cloud-server-128.png" parent="1" vertex="1">
-          <mxGeometry x="-700" y="540" width="128" height="128" as="geometry" />
+          <mxGeometry x="-148" y="740" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="LyeWaFvupgN1CY5PztgA-8" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Smartphone.svg;" parent="1" vertex="1">
-          <mxGeometry x="-862" y="570" width="70.22" height="153.2" as="geometry" />
+          <mxGeometry x="-260" y="727.4" width="70.22" height="153.2" as="geometry" />
         </mxCell>
-        <mxCell id="hrkBk5p5sW1la8dxaBK3-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/JEmwzkf.jpg;" parent="1" vertex="1">
-          <mxGeometry x="-1520" y="229.08" width="337" height="190" as="geometry" />
+        <mxCell id="hrkBk5p5sW1la8dxaBK3-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/JEmwzkf.jpg;clipPath=inset(0% 0% 0% 0% round 26%);" parent="1" vertex="1">
+          <mxGeometry x="-1570" y="190" width="337" height="189.84333333333333" as="geometry" />
         </mxCell>
-        <mxCell id="hrkBk5p5sW1la8dxaBK3-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/i6xr7U6.jpg;" parent="1" vertex="1">
-          <mxGeometry x="-280" y="210" width="268" height="268" as="geometry" />
+        <mxCell id="hrkBk5p5sW1la8dxaBK3-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/i6xr7U6.jpg;clipPath=inset(0% 0% 0% 0% round 50%);" parent="1" vertex="1">
+          <mxGeometry x="-633.37" y="10" width="268" height="268" as="geometry" />
         </mxCell>
-        <mxCell id="hrkBk5p5sW1la8dxaBK3-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/BBEYaaE.png;" parent="1" vertex="1">
-          <mxGeometry x="-457" y="489.06" width="324" height="216" as="geometry" />
+        <mxCell id="hrkBk5p5sW1la8dxaBK3-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/BBEYaaE.png;clipPath=inset(1% 6.67% 0% 5.33% round 50%);" parent="1" vertex="1">
+          <mxGeometry x="-520" y="422.22" width="324" height="243" as="geometry" />
         </mxCell>
-        <mxCell id="yxanTwf1TaR45OSPYr_J-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/esW0HyD.png;" vertex="1" parent="1">
-          <mxGeometry x="-1050" y="239.07999999999998" width="526.63" height="180" as="geometry" />
+        <mxCell id="yxanTwf1TaR45OSPYr_J-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/esW0HyD.png;clipPath=inset(1.46% 0% 1.46% 0% round 50%);" vertex="1" parent="1">
+          <mxGeometry x="-1160" y="190" width="526.63" height="175.54333333333332" as="geometry" />
         </mxCell>
-        <mxCell id="yxanTwf1TaR45OSPYr_J-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/75mLvag.png;" vertex="1" parent="1">
-          <mxGeometry x="-1550" y="460" width="277" height="237.99" as="geometry" />
+        <mxCell id="yxanTwf1TaR45OSPYr_J-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/75mLvag.png;clipPath=inset(0% 0% 0% 0% round 26%);" vertex="1" parent="1">
+          <mxGeometry x="-1580" y="400" width="277" height="238.22" as="geometry" />
         </mxCell>
-        <mxCell id="yxanTwf1TaR45OSPYr_J-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/VjnqUQM.jpg;" vertex="1" parent="1">
-          <mxGeometry x="-1150" y="450" width="264.82" height="235.06" as="geometry" />
+        <mxCell id="yxanTwf1TaR45OSPYr_J-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/VjnqUQM.jpg;clipPath=inset(0% 0% 0% 0% round 16%);" vertex="1" parent="1">
+          <mxGeometry x="-1230" y="430" width="264.82" height="234.80706666666666" as="geometry" />
         </mxCell>
-        <mxCell id="yxanTwf1TaR45OSPYr_J-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/vFhnuZd.jpg;" vertex="1" parent="1">
-          <mxGeometry x="-1300" y="600" width="240" height="240" as="geometry" />
+        <mxCell id="yxanTwf1TaR45OSPYr_J-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/vFhnuZd.jpg;clipPath=inset(0% 0% 0% 0% round 50%);" vertex="1" parent="1">
+          <mxGeometry x="-1570" y="650" width="240" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="yxanTwf1TaR45OSPYr_J-15" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/6MNcoyG.jpg;" vertex="1" parent="1">
-          <mxGeometry x="-770" y="480" width="500" height="270" as="geometry" />
+        <mxCell id="yxanTwf1TaR45OSPYr_J-15" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/6MNcoyG.jpg;clipPath=inset(8.02% 4.67% 2.47% 5.67% round 20%);" vertex="1" parent="1">
+          <mxGeometry x="-380" y="169.29" width="360" height="194.05204460966544" as="geometry" />
         </mxCell>
-        <mxCell id="yxanTwf1TaR45OSPYr_J-16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/ZBjunPL.jpg;" vertex="1" parent="1">
-          <mxGeometry x="-1050" y="697.99" width="203" height="116.05" as="geometry" />
+        <mxCell id="yxanTwf1TaR45OSPYr_J-16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/ZBjunPL.jpg;clipPath=inset(0% 0% 0% 0% round 50%);" vertex="1" parent="1">
+          <mxGeometry x="-910" y="470" width="297.38" height="169.50660000000002" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
